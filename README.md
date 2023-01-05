@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **zaan9823@gmail.com**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/faizan-ali-18a0491aa/)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/faizan-ali-18a0491aa/](https://www.linkedin.com/in/faizan-ali-18a0491aa/)
 
