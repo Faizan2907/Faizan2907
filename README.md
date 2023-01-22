@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/faizanaliiqbal1" target="blank"><img src="https://img.shields.io/twitter/follow/faizanaliiqbal1?logo=twitter&style=for-the-badge" alt="faizanaliiqbal1" /></a> </p>
 
-- 🌱 I’m currently learning **Android App development**
+- 🌱 I’m currently learning **Android App development (Java)**
 
 - Freelance Graphic and Website Designer [https://www.fiverr.com/ali_logo_maker7?up_rollout=true](https://www.fiverr.com/ali_logo_maker7?up_rollout=true)
 
