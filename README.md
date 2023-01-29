@@ -13,7 +13,7 @@
 
 - Freelance Graphic and Website Designer [https://www.fiverr.com/ali_logo_maker7?up_rollout=true](https://www.fiverr.com/ali_logo_maker7?up_rollout=true)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java & Android development**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/faizan-ali-18a0491aa/)**
 
