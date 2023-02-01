@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Android App development (Java)**
 
-- Freelance Graphic and Website Designer [https://www.fiverr.com/ali_logo_maker7?up_rollout=true](https://www.fiverr.com/ali_logo_maker7?up_rollout=true)
+- Freelancer Graphic and Website Designer [https://www.fiverr.com/ali_logo_maker7?up_rollout=true](https://www.fiverr.com/ali_logo_maker7?up_rollout=true)
 
 - 💬 Ask me about **Java & Android development**
 
