@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/faizan-ali-18a0491aa/](https://www.linkedin.com/in/faizan-ali-18a0491aa/)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I have a passion for traveling and exploring new cultures. My bucket list destination is USA. #wanderer #travelbug 🌍🇵**
 
 <!---
 <h3 align="left">Connect with me:</h3>
